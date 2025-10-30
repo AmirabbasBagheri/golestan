@@ -4467,8 +4467,8 @@
 }
 @font-face {
   font-family: vazir;
-  src: url(./src/fonts/Vazir-FD-WOL.woff2);
-  src: url(./src/fonts/Vazir-FD-WOL.eot);
+  src: url(/src/css/fonts/Vazir-FD-WOL.woff2);
+  src: url(/src/css/fonts/Vazir-FD-WOL.woff);
 }
 @property --tw-rotate-x {
   syntax: "*";
