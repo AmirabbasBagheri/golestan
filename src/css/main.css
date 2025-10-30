@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: vazir;
-    src: url("/src/fonts/Vazir-FD-WOL.woff2");
-    src: url("/src/fonts/Vazir-FD-WOL.woff");
+    src: url(./src/fonts/Vazir-FD-WOL.woff2);
+    src: url(./src/fonts/Vazir-FD-WOL.eot);
 
 } 
 @theme{
