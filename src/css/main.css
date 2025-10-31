@@ -3,13 +3,10 @@
 
 @font-face {
     font-family: vazir;
-    src: url(/src/css/fonts/irsans.ttf);
-
-
-
-
+    src: url(../css/fonts/Vazir-FD-WOL.woff2) format("woff2"),
+        url(../css/fonts/Vazir-FD-WOL.woff) format("woff");
 }
 
-@theme{
-    --font-vazir: "vazir";
+@theme {
+    --font-family-vazir: vazir;
 }
